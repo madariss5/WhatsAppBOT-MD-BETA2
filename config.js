@@ -42,9 +42,9 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 
 
-global.vcardowner = ['447405935355'] //ur owner number
+global.vcardowner = ['4915563151347'] //ur owner number
 
-global.ownername = '𝘼𝙇𝙄𝙀𝙉 𝘼𝙇𝙁𝘼' //ur owner name
+global.ownername = '𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻' //ur owner name
 
 global.ytname = "YT: AlienAlfa" //ur yt chanel name
 
@@ -55,11 +55,11 @@ global.location = "UK, London, hertfordshire" //ur location
 
 
 
-global.owner = ['447405935355']
+global.owner = ['4915563151347']
 
-global.ownertag = '447405935355' //ur tag number
+global.ownertag = '4915563151347' //ur tag number
 
-global.botname = "𝒜𝓊𝓇𝑜𝓇𝒶 𝐵𝒪𝒯-𝑀𝒟" //ur bot name
+global.botname = "𝔹𝕃𝔸ℂ𝕂𝕊𝕂𝕐-𝕄𝔻" //ur bot name
 
 global.linkz = 'https://www.youtube.com/alienalfa' //your theme url which will be displayed on whatsapp
 
